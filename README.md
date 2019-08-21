@@ -1,3 +1,3 @@
 # HeartDiseaseMLPrograms
 
-Source Code for three models that can diagnose heart disease with 83 % accuracies. 
+source code for three models that can diagnose heart disease given 13 attributes of the patients
